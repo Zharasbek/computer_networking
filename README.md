@@ -100,7 +100,7 @@ Ensure that you have the following prerequisites installed on your system:
 Open your terminal or command prompt and run the following command to clone the repository:
 
 ```bash
-git clone https://github.com/your-username/HUBBMNET.git
+git clone https://github.com/Zharasbek/computer_networking.git
 ```
 
 ### Program Execution
@@ -120,7 +120,7 @@ Thank you for considering contributing to this project! Your contributions are h
 1. Fork the repository to your own GitHub account.
 2. Clone the project to your local machine.
   ```bash
-   git clone https://github.com/your-username/HUBBMNET.git
+   git clone https://github.com/Zharasbek/computer_networking.git
   ```
 3. Create a new branch:
   ```bash

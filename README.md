@@ -93,7 +93,7 @@ These instructions will guide you through cloning the project, installing any ne
 Ensure that you have the following prerequisites installed on your system:
 
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- [Python](https://www.python.org/downloads/)
+- [C++](https://visualstudio.microsoft.com/vs/features/cplusplus/)
 
 ### Clone the Repository
 
